@@ -46,7 +46,7 @@ function filterSwitch(){
   return (
   <>
   <header>
-        <h1>Henry's Todo App</h1>
+        <h1>Henry's Todo list</h1>
   </header>
   <inputContext.Provider value={{input,setInput}}>
     <todoContext.Provider value={{todo,setTodo}}>
